@@ -1,0 +1,4 @@
+{
+	"name":"inastudy",
+	"description":"This is a test"
+}
